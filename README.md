@@ -1,2 +1,2 @@
 # active-Acount
-El central es web.php, index.html fue un fail xd
+The main file is web.php, index.html was a fail xd.
